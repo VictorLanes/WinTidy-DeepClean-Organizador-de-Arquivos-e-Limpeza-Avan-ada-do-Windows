@@ -9,21 +9,9 @@ Uma ferramenta desktop nativa para Windows desenvolvida em **Python (`tkinter`)*
 
 ---
 
-## 📋 Índice
-
-- [Funcionalidades](#-funcionalidades)
-- [Mapeamento de Categorias](#-mapeamento-de-categorias)
-- [Módulos de Limpeza do Sistema](#-módulos-de-limpeza-do-sistema)
-- [Requisitos e Instalação](#-requisitos-e-instalação)
-- [Como Usar](#-como-usar)
-- [Gerar Executável (.exe)](#-gerar-executável-exe)
-- [Arquitetura e Segurança](#-arquitetura-e-segurança)
-- [Aviso Legal](#-aviso-legal)
-
----
-
 ## ✨ Funcionalidades
 
+---
 ### 1. Organizador de Arquivos Inteligente
 * **Seleção Gráfica de Diretório:** Integração com o explorador de arquivos nativo do Windows.
 * **Backup Automático Preventivo (`.zip`):** Compacta todo o conteúdo original da pasta selecionada em um arquivo `.zip` datado no diretório pai antes de mover qualquer arquivo.
